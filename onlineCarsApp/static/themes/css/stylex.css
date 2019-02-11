@@ -1,0 +1,51 @@
+html{
+	background:#d8c773;
+}
+
+.xNav{
+	background:#786d6d;
+	font-family:calibri;
+	border:0;
+	border-radius:0;
+	font-size:15px;
+}
+
+.xNav .navbar-nav>li>a{
+	color:white;
+}
+
+.logo_x{
+	height:40px;
+	width:45px;
+	margin-left:80px;
+	margin-top:5px;
+}
+
+.xMenu{
+	margin-left:300px;
+}
+
+.tangmox li{
+	margin-left:80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

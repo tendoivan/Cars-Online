@@ -1,0 +1,55 @@
+.xNav{
+	background-color:#FFDAB9;
+	font-family:calibri;
+}
+
+.x{
+	height:20px;
+	background-color:#022735;
+	font-size:15px;
+	margin-bottom:0px !important;
+	border-radius:0px;
+	border:0px;
+}
+	
+	.x .navbar-nav>li>a{
+		color:#FFFFFF;
+	
+}
+
+.logo_x{
+	height:50px;
+	width:150px;
+	margin-left:20px;
+	margin-right:20px;
+	margin-top:3px;
+}
+
+.formx {
+	width:700px !important;
+	margin-left:10px;
+	height:40px;
+}
+
+.xNav1{
+	height:20x;
+	background-color:#063A4D;
+	font-Size:13px;
+	border:0px;
+	border-radius:0px;
+}
+
+.xNav2{
+	height:40px;
+	background-color:Yellow;
+	font-Size:15px;
+	
+}
+
+.xNavx{
+	height:20x;
+	background-color:#FFFF99;
+	font-Size:13px;
+}
+
+	
